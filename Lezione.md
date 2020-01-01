@@ -5,10 +5,10 @@
 ## WHITE PAPER BITCOIN
 https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 
-## SHAA256
+## SHA256
 http://www.sha1-online.com/
 
-##BLOCCO
+## BLOCCO
 https://andersbrownworth.com/blockchain/block
 
 ## BLOCKCHAIN
