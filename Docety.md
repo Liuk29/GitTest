@@ -18,7 +18,7 @@ https://andersbrownworth.com/blockchain/blockchain
 
 ## Docety
 
-https://www.docety.com/
+https://www.docety.com/organizzazioni/21427/dettagli/PDC+Academy
 
 
 
