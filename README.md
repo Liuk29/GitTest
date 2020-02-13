@@ -1,3 +1,3 @@
 # WorkShop
 
-In questo GitHub sono presenti alcuni esempi di funzionamento della blockchain, serviranno come supporto per le nostre lezioni su Docety
+In questo GitHub sono presenti alcuni link utile al fine di comprendere meglio il funzionamento base di una blockchain.
