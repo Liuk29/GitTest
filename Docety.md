@@ -8,7 +8,7 @@ https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 ## SHA256
 http://www.sha1-online.com/
 
-## Blocca
+## Blocco
 https://andersbrownworth.com/blockchain/block
 
 ## Blockchain
