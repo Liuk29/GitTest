@@ -2,19 +2,19 @@
 
 ------
 
-## WHITE PAPER BITCOIN
+## White Paper BITCOIN
 https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 
 ## SHA256
 http://www.sha1-online.com/
 
-## BLOCCO
+## Blocca
 https://andersbrownworth.com/blockchain/block
 
-## BLOCKCHAIN
+## Blockchain
 https://andersbrownworth.com/blockchain/blockchain
 
-## BLOCK EXPLORER
+## Block explorer
 https://blockstream.info/
 
 ## Mnemonic Code Converter
